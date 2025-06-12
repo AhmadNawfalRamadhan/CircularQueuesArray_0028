@@ -37,4 +37,8 @@ public:
         }
         queue_array[REAR] = num;
     }
+
+    void remove() {
+        // cek apakah antrian kosong
+    }
 }
